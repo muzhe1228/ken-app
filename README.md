@@ -1,13 +1,6 @@
 # Ken App
 
 一个基于 Expo 的 React Native 应用程序，展示了数据获取、搜索功能和状态管理的最佳实践。
-
-[![Expo](https://img.shields.io/badge/Expo-1C1E21?style=for-the-badge&logo=expo&logoColor=#000)](https://expo.dev)
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-
-> 一个基于 Expo 的 React Native 应用，用于 [简要描述应用功能，例如：管理日常任务、展示产品目录、提供实时聊天等]。
-
 ---
 
 ## 📱 预览
