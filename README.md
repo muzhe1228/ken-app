@@ -6,8 +6,6 @@
 ## 📱 预览
 
 | iOS | Android |
-|-----|--------|
-| ![iOS Screenshot](./screenshots/ios.png) | ![Android Screenshot](./screenshots/android.png) |
 
 > 💡 截图建议放在 `/screenshots` 目录下，并替换上方链接。
 
@@ -53,9 +51,10 @@ yarn install
 - **Context API** - 用于状态共享
 - **urlcat** - 用于构建 URL
 
-## 安装和运行
 # 启动 Metro Bundler
 npx expo start
+
+
 ### 前置条件
 
 - Node.js >= 18.x
